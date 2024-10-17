@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
    cd your-repo-name
    ```
 3. Install the dependencies:
-  ```bash
+   ```bash
    npm install
    ```
 4. Start the development server:
@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
    ```
 5. Open your browser and go to http://localhost:3000 to view the website.
 
-##Usage
+##Usage  
 Use the navigation bar to explore different sections of the website.  
 Click on the links to navigate between the Home, About, Skills, Projects, and Contact pages.  
 Toggle the theme using the button in the navbar to switch between light and dark modes.  
