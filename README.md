@@ -55,6 +55,6 @@ Click on the links to navigate between the Home, About, Skills, Projects, and Co
 Toggle the theme using the button in the navbar to switch between light and dark modes.  
 
 
-### Summary
+## Summary
 
 This `README.md` provides a comprehensive overview of your project, including its features, technologies, installation steps, and contact information. Feel free to modify any section to better fit your project or personal style! If you need further customization or additional sections, let me know!
